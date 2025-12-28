@@ -41,3 +41,4 @@ It features a modern UI, smooth animations, a responsive design, and a secure ba
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Maddy-Madhavan2006/PORTFOLIO.git
+
